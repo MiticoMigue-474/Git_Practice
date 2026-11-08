@@ -1,1 +1,1 @@
-print("Segundo doc, prueba de conflictos")
+print("Segundo doc, motivo de conflicto 2")
